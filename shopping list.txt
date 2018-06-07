@@ -4,8 +4,5 @@ cpu
 内存
 PS4
 xbox one
-<<<<<<< HEAD
 我是本人
-=======
 我是同事
->>>>>>> cd092a351d3134e6c2bc5cdd47d1957fc15f75ed
