@@ -4,3 +4,4 @@ cpu
 内存
 PS4
 xbox one
+我是同事
